@@ -1,4 +1,5 @@
 #!/bin/bash
+# THIS IS A WARNING: DEPLOYED ON MY VPS'S ON PROXMOX IT MODIFIES GRUB I DON'T RECOMMEND BLINDLY USING
 echo `# ttyS0 - getty
 #
 # This service maintains a getty on ttyS0 from the point the system is
